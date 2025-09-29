@@ -9,11 +9,11 @@ I'm a developer, thinker, and digital explorer passionate about creating tools, 
 - 🔍 Always learning, building, and sharing
 
 ## 🛠️ Tech Stack
-- Gaming: Unity, Unreal Engine, Three.js
+- AI: ML, DL, LLM, NLP, GenAI, Lipsync, Stable diffusion, ComfyUI
+- Gaming: Unity, Unreal Engine, Three.js, VR/AR
 - Languages: JavaScript / TypeScript, Python, C#, C++
 - Automation: Make, Zoho, n8n, gohighlevel
-- Frontend: React, TailwindCSS, Next.js
-- Backend: Node.js, Django, PostgreSQL
+- Full-Stack: React, TailwindCSS, Next.js, Node.js, Django, PostgreSQL
 - Tools: Git, Docker, VS Code, Figma
 
 ## 📬 Let's Connect
